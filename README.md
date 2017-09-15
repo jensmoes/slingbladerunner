@@ -8,4 +8,5 @@ This allows for solutions with hundreds of nodes in a few minutes on a single la
 
 ## TODO
 Clean up code, indentation is awful.
+Simplify locking/unlocking of columns to increase efficiency
 
